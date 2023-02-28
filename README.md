@@ -1,4 +1,4 @@
-# HHC_LAB_STUDY
+# HCC_LAB_STUDY
 2023년 1월 2일 ~ 2023년 2월 28일까지의 기록입니다. 
 
 - kogpt2와 다범주 감성분류 모델 결합 https://github.com/heonseok11/KoGPT2-chatbot
